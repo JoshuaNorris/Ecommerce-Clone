@@ -1,0 +1,9 @@
+sign in with email/password
+1:45 signup form
+
+signup fields -> Display name, email, password, confirm password
+
+todo
+setup database
+setup backend
+setup form for signup (start with Signup form pt. 1)
